@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**janmirco/janmirco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jan.
+I'm working as a research associate at [University of Wuppertal][buw], Germany.
 
-Here are some ideas to get you started:
+- 📝 [ResearchGate][rg]
+- 🏢 [Civil Engineering Mechanics][cem]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- Links -->
+
+[buw]: https://www.uni-wuppertal.de/en/
+[rg]: https://www.researchgate.net/profile/Jan-Pfeifer-3
+[cem]: https://baumechanik.uni-wuppertal.de/en/team/team-pfeifer-eng/
