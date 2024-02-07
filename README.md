@@ -1,16 +1,8 @@
 ### Hi there 👋
 
 My name is Jan.
-I'm working as a research associate at [University of Wuppertal][buw], Germany.
+I'm working as a research associate at [University of Wuppertal](https://www.uni-wuppertal.de/en/), Germany.
 
-- 📝 [ResearchGate][rg]
-- 🏢 [Computational Applied Mechanics][cam]
-- 🖇 [LinkedIn][li]
-
-
-<!-- Links -->
-
-[buw]: https://www.uni-wuppertal.de/en/
-[rg]: https://www.researchgate.net/profile/Jan-Pfeifer-3
-[cam]: https://cam.uni-wuppertal.de/en/computational-applied-mechanics/team/team-pfeifer/
-[li]: https://www.linkedin.com/in/jan-mirco-pfeifer
+- 📝 [ResearchGate](https://www.researchgate.net/profile/Jan-Pfeifer-3)
+- 🏢 [Computational Applied Mechanics](https://cam.uni-wuppertal.de/en/computational-applied-mechanics/team/team-pfeifer/)
+- 🖇 [LinkedIn](https://www.linkedin.com/in/jan-mirco-pfeifer)
